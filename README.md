@@ -1,2 +1,0 @@
-# python
-Bilimsel Hesaplama Makalesi
